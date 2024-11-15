@@ -1,0 +1,1 @@
+import{k as o,ad as s,t}from"./vue-1730252110824.js";import{X as u}from"./index-1730252110824.js";const c=()=>{const e=o({}),a=u(),r=s().currentRoute.value.name;return e.value=r&&a.params[r]?a.params[r]:{},t(()=>{r&&a.params[r]&&(a.params={})}),{params:e}};export{c as u};

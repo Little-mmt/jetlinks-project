@@ -1,0 +1,1 @@
+import{a4 as c,cC as a,cD as f}from"./index-1730252110824.js";const p=(o,e,r="name")=>{let n;const l=c(o);if(e===void 0&&e===null)return n;let s=a(e)?String(e):e;for(let t=0;t<o.length;t++){const i=l[t];if(f(i[r],s)){n=l[t];break}else if(i.children&&i.children.length&&(n=p(i.children,e,r),n))break}return n};export{p as g};

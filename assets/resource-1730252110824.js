@@ -1,0 +1,1 @@
+import{ay as e}from"./index-1730252110824.js";const o=t=>e.post("/entity/template/_query",t),p=(t,s)=>e.put(`/entity/template/${t}`,s),n=t=>e.remove(`/entity/template/${t}`),c=t=>e.post("/entity/template/start/_batch",t),i=t=>e.post("/entity/template/stop/_batch",t),r=t=>e.post("/device-instance/detail/_query",t);export{i as _,o as a,c as b,n as c,p as m,r as q};

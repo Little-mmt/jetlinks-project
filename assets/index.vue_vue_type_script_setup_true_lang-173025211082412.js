@@ -1,0 +1,1 @@
+import e from"./index-173025211082483.js";import{d as o,U as r,V as t}from"./vue-1730252110824.js";const s=o({__name:"index",setup(a){return(c,n)=>(r(),t(e,{provider:"collector-gateway"}))}});export{s as _};

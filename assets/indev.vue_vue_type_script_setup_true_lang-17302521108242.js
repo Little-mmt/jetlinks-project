@@ -1,0 +1,1 @@
+import n from"./index-1730252110824207.js";import{d as r,ac as a,U as s,Z as p,f as u,u as c}from"./vue-1730252110824.js";const _=r({__name:"indev",props:{type:{type:String,default:"detail"}},setup(t){var e;const o=(e=a().query)==null?void 0:e.id;return(d,l)=>(s(),p("div",null,[u(n,{id:c(o),type:t.type},null,8,["id","type"])]))}});export{_};

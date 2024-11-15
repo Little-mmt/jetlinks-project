@@ -1,0 +1,1 @@
+const e=[{label:"GB/T28181",value:"gb28181-2016"},{label:"固定地址",value:"fixed-media"},{label:"Onvif",value:"onvif"},{label:"插件",value:"media-plugin"}],a={"gb28181-2016":"GB/T28181","fixed-media":"固定地址",onvif:"Onvif","media-plugin":"插件"};export{e as P,a as p};
