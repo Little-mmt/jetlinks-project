@@ -1,1 +1,0 @@
-import{ah as s}from"./vue-1730252110824.js";import{dG as i}from"./index-1730252110824.js";const c=s({id:"device",state:()=>({current:{},detail:{},tabActiveKey:"Info"}),actions:{setCurrent(t){this.current=t,this.detail=t},async refresh(t){const e=await i(t);e.status===200&&(this.current=e.result,this.detail=e.result)},setTabActiveKey(t){this.tabActiveKey=t}}});export{c as u};

@@ -1,0 +1,1 @@
+import{_ as o}from"./TriggerWay.vue_vue_type_style_index_0_scoped_1bb0f74d_lang-1731638920964.js";import{g as r}from"./index-1731638920964.js";import"./vue-1731638920964.js";const _=r(o,[["__scopeId","data-v-1bb0f74d"]]);export{_ as default};

@@ -1,1 +1,0 @@
-import{ah as a}from"./vue-1730252110824.js";const i=a({id:"metadata",state:()=>({model:{item:void 0,edit:!1,type:"events",action:"add",import:!1,importMetadata:!1},tabActiveKey:"properties"}),actions:{set(t,e){this.model[t]=e}}});export{i as u};

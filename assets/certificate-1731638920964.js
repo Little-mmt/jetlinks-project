@@ -1,0 +1,1 @@
+import{B as r,ay as e}from"./index-1731638920964.js";const o=`${r}/network/certificate/upload`,c=t=>e.post("/network/certificate",t),s=t=>e.patch("/network/certificate",t),i=t=>e.post("/network/certificate/_query",t),n=t=>e.get(`/network/certificate/${t}`),f=t=>e.remove(`/network/certificate/${t}`);export{o as N,i as a,n as q,f as r,c as s,s as u};

@@ -1,0 +1,1 @@
+import{ay as r}from"./index-1731638920964.js";const o=t=>r.post("/network/card/platform/_query",t),e=t=>r.get(`/network/card/platform/${t}`),s=t=>r.post("/network/card/platform",t),c=t=>r.patch("/network/card/platform",t),p=t=>r.remove(`/network/card/platform/${t}`);export{o as a,p as d,e as q,s,c as u};

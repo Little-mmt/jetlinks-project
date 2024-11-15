@@ -1,0 +1,1 @@
+import{ay as e}from"./index-1731638920964.js";const n=()=>e.get("/license/module"),i=t=>e.post("/license/init",t,{},{headers:{"Content-Type":"text/plain;charset=UTF-8"}}),a=()=>e.get("/license"),o=()=>e.get("/user/settings/init");export{a,n as g,o as i,i as l};

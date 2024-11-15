@@ -1,1 +1,0 @@
-import{ay as i}from"./index-1730252110824.js";const o=s=>i.post("/permission/_query/",s),a=s=>i.get("/permission/id/_validate",s),p=s=>i.patch("/permission",s),n=s=>i.post("/permission",s),r=s=>i.remove(`/permission/${s}`),t=s=>i.post("/permission/_query/no-paging",s);export{p as a,n as b,a as c,r as d,t as e,o as g};
